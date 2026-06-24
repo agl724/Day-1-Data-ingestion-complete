@@ -1,3 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+sqlalchemy
+requests
+scipy
+jupyter
 anyio==4.14.0
 argon2-cffi==25.1.0
 argon2-cffi-bindings==25.1.0
